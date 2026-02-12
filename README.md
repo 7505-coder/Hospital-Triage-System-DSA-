@@ -1,4 +1,4 @@
-# DSA-Assignment-5-Hospital-Triage-System
+Hospital-Triage-System
 
 # Hospital Triage & Appointment System (DSA Capstone Assignment)
 
