@@ -1,6 +1,6 @@
 Hospital-Triage-System
 
-# Hospital Triage & Appointment System (DSA Capstone Assignment)
+# Hospital Triage & Appointment System 
 
 This repository contains a single-file Java implementation of the Hospital Appointment & Triage System required for the Data Structures capstone assignment.
 
